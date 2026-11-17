@@ -1,0 +1,108 @@
+[
+  {
+    "id": "masp",
+    "nome": "MASP",
+    "cidade": "São Paulo",
+    "categoria": "Museu",
+    "tags": ["museus", "cultura"],
+    "descricao": "Museu de arte na Avenida Paulista",
+    "custo": 75,
+    "melhorHorario": "Terça, entrada gratuita",
+    "latitude": -23.561684,
+    "longitude": -46.656568
+  },
+  {
+    "id": "pinacoteca",
+    "nome": "Pinacoteca",
+    "cidade": "São Paulo",
+    "categoria": "Museu",
+    "tags": ["museus", "cultura"],
+    "descricao": "Museu de artes visuais no bairro da Luz",
+    "custo": 30,
+    "melhorHorario": "Manhã",
+    "latitude": -23.534274,
+    "longitude": -46.633916
+  },
+  {
+    "id": "museu-diversidade",
+    "nome": "Museu da Diversidade Sexual",
+    "cidade": "São Paulo",
+    "categoria": "Museu",
+    "tags": ["museus", "cultura", "lgbtqia+"],
+    "descricao": "Museu dedicado à memória LGBTQIA+, na estação República",
+    "custo": 0,
+    "melhorHorario": "Tarde",
+    "latitude": -23.543171,
+    "longitude": -46.642521
+  },
+  {
+    "id": "chilli-peppers",
+    "nome": "Chilli Peppers",
+    "cidade": "São Paulo",
+    "categoria": "Vida noturna",
+    "tags": ["vida noturna", "lgbtqia+"],
+    "melhorHorario": "Noite",
+    "latitude": -23.541539,
+    "longitude": -46.648027
+  },
+  {
+    "id": "loca",
+    "nome": "A Lôca",
+    "cidade": "São Paulo",
+    "categoria": "Vida noturna",
+    "tags": ["vida noturna", "lgbtqia+"],
+    "descricao": "Clube na Rua Frei Caneca",
+    "custo": 50,
+    "melhorHorario": "Madrugada",
+    "latitude": -23.55506,
+    "longitude": -46.655818
+  },
+  {
+    "id": "frei-caneca",
+    "nome": "Rua Frei Caneca",
+    "cidade": "São Paulo",
+    "categoria": "Bairro",
+    "tags": ["lgbtqia+", "gastronomia", "vida noturna"],
+    "descricao": "Rua com bares e restaurantes no centro",
+    "custo": 80,
+    "melhorHorario": "Noite",
+    "latitude": -23.555005,
+    "longitude": -46.655597
+  },
+  {
+    "id": "ibirapuera",
+    "nome": "Parque Ibirapuera",
+    "cidade": "São Paulo",
+    "categoria": "Parque",
+    "tags": ["natureza", "cultura"],
+    "descricao": "Maior parque urbano da cidade",
+    "custo": 0,
+    "melhorHorario": "Manhã",
+    "latitude": -23.587713,
+    "longitude": -46.658521
+  },
+  {
+    "id": "mercadao",
+    "nome": "Mercado Municipal",
+    "cidade": "São Paulo",
+    "categoria": "Gastronomia",
+    "tags": ["gastronomia"],
+    "descricao": "Mercado famoso pelo sanduíche de mortadela",
+    "custo": 60,
+    "melhorHorario": "Almoço",
+    "latitude": -23.541733,
+    "longitude": -46.629524
+  },
+  {
+    "id": "beco-do-batman",
+    "nome": "Beco do Batman",
+    "cidade": "São Paulo",
+    "categoria": "Arte urbana",
+    "tags": ["cultura"],
+    "descricao": "Viela de grafites na Vila Madalena",
+    "custo": 0,
+    "melhorHorario": "Tarde",
+    "latitude": -23.55453,
+    "longitude": -46.685748
+  }
+]
